@@ -1,2 +1,2 @@
-console.log('modify my commit');
+console.log('my commit');
 
